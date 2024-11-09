@@ -1,4 +1,6 @@
-Extracción y Procesamiento de Resúmenes Bancarios del Banco Macro Modelo 1
+Extracción y Procesamiento de Resúmenes Bancarios del Banco Macro
+
+En este repositorios vas a encontrar scrip para diferentes estructuras de datos dentro un archivo pdf, el cual hay dos casos planteados, el cual el primer modelo extrae en un archivo de excel los datos de distintas cuentas que hay en el archivo, el segundo modelo de pdf, tiene un codigo el cual extrae un archivo csv donde extrae los movimientos.
 
 Este proyecto es un script en Python diseñado para procesar automáticamente archivos PDF de resúmenes bancarios y convertirlos en archivos Excel, generando hojas de cálculo por cuenta bancaria y filtrando las transacciones relevantes.
 
